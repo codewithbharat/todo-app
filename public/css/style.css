@@ -1,0 +1,27 @@
+h1 {
+	font-size: 71px;
+	font-family: 'Goldman', cursive;
+	
+}
+
+li {
+	font-size: 25px;
+	transition: all;
+	transition-duration: 0.3s;
+	font-family: 'Comfortaa', cursive;
+}
+
+li:hover {
+	color: grey;
+	text-decoration: line-through;
+}
+
+.delete {
+	font-size: 25px;
+	transition: all;
+	transition-duration: 0.3s;
+}
+
+.delete:hover {
+	color: red;
+}
