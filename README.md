@@ -1,4 +1,4 @@
-# todo-app
+# Todo-app
 <hr />
 
 - This is a todo List app.
