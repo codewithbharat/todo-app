@@ -4,7 +4,7 @@ const express = require('express'),
 	  Todo = require('./models/todo'),
 	  app = express();
 
-const AtlasUri = "mongodb+srv://bharat:8kxG7adWMxJbq59S@blogapp.snaf8.mongodb.net/<dbname>?retryWrites=true&w=majority"
+// const AtlasUri = " add your atlas url"
 mongoose.connect( AtlasUri, {
 	useNewUrlParser: true,
 	useCreateIndex: true,
